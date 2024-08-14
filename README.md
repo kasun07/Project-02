@@ -21,7 +21,7 @@ Goals:
 
 > Model Evaluation: Assess the model’s performance using metrics like R-squared, Mean Squared Error (MSE), and cross-validation to ensure accuracy and robustness.
 
-Techniques Used:
+### Techniques Used:
 1. API Integration:
    > HTTP Requests: Use the requests library in Python to make API calls and handle responses.
    > JSON Parsing: Extract relevant data from JSON responses.
@@ -66,14 +66,12 @@ Step 4: Regression Model and Analysis
 > Evaluated the model's performance and interpreted the results.
 
 ## Results
-1. Specifically related to the project: 
-> The combined data provided comprehensive coverage of bike-sharing services and local businesses in the chosen area.
+### Specifically related to the project: 
+> In vancouver city there are lots of bike station compared to restaurants and bars. 
 
-> The regression model indicated a positive correlation between bike availability and higher local business ratings.
+> The regression model depicts that there's no relationship between places of bike staion and restaurants.
 
-> The analysis highlighted areas with high bike usage and their impact on business quality.
-
-2. Technical Skills
+### Technical Skills
    
 > API Integration and Data Retrieval: HTTP Requests, JSON Parsing
 
@@ -83,7 +81,7 @@ Step 4: Regression Model and Analysis
 
 > Regression Modeling:Model Creation, Regression Techniques, Model Evaluation
 
-3. Soft Skills
+### Soft Skills
 
 > Problem-Solving
 
@@ -98,7 +96,7 @@ Step 4: Regression Model and Analysis
 
 ## Challenges 
 
-1. Technical Challenges:
+### Technical Challenges:
 
 > Data Consistency: Ensuring consistency between different data sources was challenging due to varying formats and missing values.
 
@@ -106,7 +104,7 @@ Step 4: Regression Model and Analysis
 
 > Model Accuracy: Achieving a high level of accuracy in the regression model was difficult due to the complexity of factors influencing business ratings.
 
-2. Personal Challenges:
+### Personal Challenges:
 
 > Understanding API behavior is bit challenging. Often, API documentation is not standardized, it's difficult to find specific details. Additionally, each API behaves differently.
 
