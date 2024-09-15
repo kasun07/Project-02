@@ -63,7 +63,32 @@ Step 4: Regression Model and Analysis
 
 > Developed a regression model to analyze the relationship between bike availability and local business ratings.
 
-> Evaluated the model's performance and interpreted the results.
+> Evaluated the model's performance and interpreted the results as below,
+* Model Overview:
+  
+  Dependent Variable: Number of Bike Stations
+  
+  Independent Variable: Number of Restaurants and Bars
+  
+  Method: Least Squares
+  
+  No. Observations: 256
+
+  Degrees of Freedom (DF Residuals): 254
+  
+  DF Model: 1 (indicating a single independent variable)
+* R-squared: -inf (negative infinity)
+
+  This value suggests that the model does not explain any variability in the dependent variable. This could indicate a serious issue with the data or model setup, like collinearity or poor model fit.
+
+* F-statistic: -254.0 (Prob (F-statistic) = 1.00)
+
+  The F-statistic and its probability suggest the model does not have any explanatory power.
+* Coefficients:
+
+  Intercept (const): 1.0000 with a P-value of 0.000 (indicating significance).
+Number of Restaurants and Bars: The coefficient is 5.1e-16, and the associated P-value is 0.18 (suggesting it is not statistically significant).
+
 
 ## Results
 ### Specifically related to the project: 
