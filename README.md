@@ -59,6 +59,8 @@ Step 3: Data Integration
 
 > Loaded the combined data into a database for further analysis.
 
+> Added  
+
 Step 4: Regression Model and Analysis
 
 > Developed a regression model to analyze the relationship between bike availability and local business ratings.
